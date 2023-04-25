@@ -1,8 +1,8 @@
-### Saudações
+### Greetings, i'm John.
 
-- 🔭 Hoje trabalho com cloud/devops 
-- 🌱 Estudando Python e kubernetes 
-- 📫 Como entrar em contato comigo: alves.john@outlook.com.br / https://www.linkedin.com/in/john-alves-a871ba142/ ...
-- 😄 Pronomes:Ele/Dele
+- 🔭 Cloud Engineer
+- 🌱 Learning Kubernetes
+- 📫 Contact info: alves.john@outlook.com.br / https://www.linkedin.com/in/john-alves-a871ba142/ ...
+- 😄 Pronouns:He/Him
 
 
